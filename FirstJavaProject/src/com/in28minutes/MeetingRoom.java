@@ -4,6 +4,19 @@ import java.util.*;
 
 public class MeetingRoom {
 
+	
+	/*
+	 * 미팅시간 배열이 주어집니다. intervals[i] = [start,end]
+	 * intervals 배열을 이용하여 사람들이 모든 회의에 참석할 수 있는지 boolean으로 리턴하세요
+	 * 
+	 * 입출력
+	 * Input:intervals = [[5,10],[16,20],[0,30]] 
+	 * output:false
+	 * 
+	 * Input:intervals = [[7,10],[2,4]] 
+	 * output:true 
+	 * 
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("");
